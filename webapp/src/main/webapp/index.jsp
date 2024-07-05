@@ -1,1 +1,1 @@
-<h1>Hi all welcoem to my web page</h1>
+<h1>Hi all welcome to DevOps project</h1>
